@@ -40,7 +40,7 @@ pontuaçao = 0
 
 fim_de_jogo = False
 
-bg = pygame.image.load(os.path.join("cobrinha1.jpeg"))
+bg = pygame.image.load(os.path.join("cobrinha.jpeg"))
 
 while not fim_de_jogo:
     relogio.tick(10)
